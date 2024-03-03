@@ -29,11 +29,11 @@ function SelfCheck() {
   return (
   
     <div className="relative bg-lavenderblush w-screen h-[379.38rem] overflow-hidden text-left text-[0.94rem] text-black font-poppins">
-    <img
+       <img
                 className="absolute top-[0.19rem] left-[0rem] w-screen h-[49.06rem]"
                 alt=""
                 src={sc1}
-   />
+        />
      <img
                 className="absolute top-[24.31rem] left-[45rem] w-[5.88rem] h-[0.44rem]"
                 alt=""
@@ -69,7 +69,7 @@ height: 127px}' src={sc3}></img>
                 <img src={sc5}></img>
             </div>
             </div>
-            <img
+            {/* <img
                 className="absolute top-[68.19rem] left-[69.19rem] w-[20.56rem] h-[32.5rem]"
                 alt=""
                 src= {sc6}
@@ -139,7 +139,7 @@ height: 127px}' src={sc3}></img>
                 className="absolute bottom-[184.44rem] left-[calc(50%_-_687px)] w-[3.63rem] h-[3.5rem]"
                 alt=""
                 src={pt}
-            />
+            /> */}
             <div className="absolute top-[66.19rem] left-[7.88rem] inline-block w-[61.31rem] text-[3rem] font-playfair-display">
                 <span>
                     <span className="font-medium">Step 1</span>

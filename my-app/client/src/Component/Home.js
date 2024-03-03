@@ -24,7 +24,7 @@ function Home() {
     <Navbar1 />
     <div className="main ">  
      
-      <div className='main1 w-screen' style={{backgroundImage: `url(${bg5})` }}>
+      {/* <div className='main1 w-screen' style={{backgroundImage: `url(${bg5})` }}> */}
         <div className='main2'>
           <div className='main3'>
             <h2 className='head mt-0 my-0 '>
@@ -46,7 +46,7 @@ function Home() {
           </div>
           </div>
         </div>
-      </div>
+      {/* </div> */}
       
       <div>
       <div className="flex" style={{backgroundImage: `url(${bg6})` }}>
